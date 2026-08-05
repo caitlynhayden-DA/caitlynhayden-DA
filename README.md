@@ -6,6 +6,7 @@
 I'm a Data Analytics student at Western Governors University with more than 10 years of experience improving business operations within the financial services industry.
 My passion is transforming complex information into practical, data-driven solutions through analytics, dashboard development, reporting, and process improvement.
 I'm currently expanding my technical skills in Microsoft Excel, Power Query, Power BI, SQL, and Python while building projects that solve real business problems.
+
 ---
 ## Technical Skill
 
@@ -38,6 +39,7 @@ I'm currently expanding my technical skills in Microsoft Excel, Power Query, Pow
 💻 SQL Portfolio
 
 🐍 Python Portfolio
+
 ---
 ## Currently Learning
 

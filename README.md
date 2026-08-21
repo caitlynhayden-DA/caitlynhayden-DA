@@ -1,6 +1,10 @@
+![Caitlyn Hayden | Data Analytics, Business Intelligence & Dashboard Design](image/Banner.png)
+
 # Hi, I'm Caitlyn! 💕📊
 
 ### Data Analytics • Business Intelligence • Dashboard Design • Professional Problem Solver
+
+[📄 View My Analytics Resume](assets/C%20Hayden%20Analyst%20Resume.pdf) • [💼 LinkedIn](https://www.linkedin.com/in/caitlynhayden)
 
 Welcome to my little corner of GitHub! ✨
 
@@ -197,3 +201,4 @@ I'm actively building my analytics portfolio and working toward opportunities in
 Thanks for stopping by and checking out what I'm building! 💕
 
 **— Caitlyn**
+

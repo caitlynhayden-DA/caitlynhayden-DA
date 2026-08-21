@@ -60,6 +60,32 @@ What started with raw Excel data became a multi-page Power BI reporting solution
 
 ---
 
+## 🔮 Currently Building
+
+### 🖥️ Personal Command Center — Analytics Roadmap
+
+My next major portfolio project is a **Personal Command Center** designed to bring multiple areas of personal data into one centralized reporting environment.
+
+The project will build on the Excel, Power Query, Power BI, data modeling, and dashboard-design skills demonstrated throughout my current portfolio while expanding into more advanced automation and data integration.
+
+### Planned Features
+- 💰 Financial & budget tracking
+- 🎓 Academic progress and degree planning
+- 💼 Career & job-search tracking
+- 🏠 Personal goals and planning
+- 📊 KPI monitoring and trend analysis
+- 🔄 Automated data transformation and refresh workflows
+- 🗄️ Structured data modeling across multiple data sources
+- 📈 Interactive Power BI reporting
+
+**Project Status:** 🛠️ Planning & Development
+
+> The goal: build one centralized analytics environment that turns everyday personal data into useful, actionable information.
+
+📍 **Full project roadmap coming soon.**
+
+---
+
 ## 📈 Training Workflow & KPI Dashboard | Excel
 
 This one is especially close to my professional experience. 💗

@@ -4,7 +4,7 @@
 
 ### Data Analytics • Business Intelligence • Dashboard Design • Professional Problem Solver
 
-[📄 View My Analytics Resume](assets/C%20Hayden%20Analyst%20Resume.pdf) • [💼 LinkedIn](https://www.linkedin.com/in/caitlynhayden)
+[📄 View My Analytics Resume](assets/CHaydenDAResume.docx) • [💼 LinkedIn](https://www.linkedin.com/in/caitlynhayden)
 
 Welcome to my little corner of GitHub! ✨
 
